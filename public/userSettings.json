@@ -1,0 +1,609 @@
+{
+  "asmith": {
+    "teas": [
+      {
+        "name": "Palm sugar",
+        "teaGramsPerLiter": 1.1,
+        "incubatorTemperature": 25,
+        "sugarType": "palm sugar",
+        "sugarGramsPerLiter": 2.1,
+        "inoculumConcentration": 2.2,
+        "id": 1
+      },
+      {
+        "name": "honey",
+        "teaGramsPerLiter": 12,
+        "incubatorTemperature": 25,
+        "sugarType": "honey",
+        "sugarGramsPerLiter": 0.7,
+        "inoculumConcentration": 12,
+        "id": 2
+      },
+      {
+        "name": "Maple syrup",
+        "teaGramsPerLiter": 12,
+        "incubatorTemperature": 25,
+        "sugarType": "maple syrup",
+        "sugarGramsPerLiter": 12.2,
+        "inoculumConcentration": 12,
+        "id": 3
+      }
+    ],
+    "experiments": [
+      {
+        "id": "745fb0d2-99e1-4a25-9ff8-af28e95e12bf",
+        "name": "Experiment 2",
+        "description": "Test with maple syrup",
+        "date": "2025-05-21T11:09:12.609Z",
+        "protocolDate": null,
+        "cellCountingDate": null,
+        "scobyDriedDate": null,
+        "protocolNotes": "",
+        "cellCountingNotes": "",
+        "scobyDriedNotes": "",
+        "protocolUserName": null,
+        "cellCountingUserName": null,
+        "scobyDriedUserName": null,
+        "scobyWeights": [],
+        "scobyWeightsDried": [],
+        "numberOfSamples": 3,
+        "batches": [
+          {
+            "id": "eb566ce9-a8c6-4b38-b208-7b97f998f2f1",
+            "teaId": 2,
+            "teaName": "honey",
+            "replicate": 1,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "19c886ae-a476-4c3c-8b62-e9d1dd6d1498",
+            "teaId": 2,
+            "teaName": "honey",
+            "replicate": 2,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "d4c5eb19-f7a2-41f4-99fc-6cc8190de498",
+            "teaId": 2,
+            "teaName": "honey",
+            "replicate": 3,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "417f275c-9f17-40c9-b3dd-26aef4afef83",
+            "teaId": 3,
+            "teaName": "Maple syrup",
+            "replicate": 1,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "e00ba245-0a3a-4f1e-bed2-d8dc43a3c2fc",
+            "teaId": 3,
+            "teaName": "Maple syrup",
+            "replicate": 2,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "d7e6b592-b351-4ed3-99b6-92ef0fe4bc6a",
+            "teaId": 3,
+            "teaName": "Maple syrup",
+            "replicate": 3,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          },
+          {
+            "id": "fee7d318-01f5-4538-958e-48a8a4a563e5",
+            "teaId": 3,
+            "teaName": "Maple syrup",
+            "replicate": 4,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null
+          }
+        ]
+      }
+    ]
+  },
+  "bjohnson": {
+    "teas": [
+      {
+        "name": "test",
+        "teaGramsPerLiter": 1,
+        "incubatorTemperature": 27,
+        "sugarType": "Brown Sugar",
+        "sugarGramsPerLiter": 1,
+        "inoculumConcentration": 1,
+        "id": 1
+      },
+      {
+        "name": "Testname",
+        "teaGramsPerLiter": 0,
+        "incubatorTemperature": 25,
+        "sugarType": "White sugar",
+        "sugarGramsPerLiter": 0,
+        "inoculumConcentration": 0,
+        "id": 2
+      }
+    ],
+    "experiments": [
+      {
+        "id": "95fd033f-8a04-4af8-a692-4b26f7679fa5",
+        "name": "t",
+        "description": "t",
+        "date": "2025-04-18T10:33:37",
+        "protocolDate": "2025-04-18",
+        "cellCountingDate": "2025-04-10",
+        "protocolNotes": "Test",
+        "cellCountingNotes": "Test",
+        "batches": [
+          {
+            "id": "56356357-321f-444b-8545-bb2c36c49cca",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 1,
+            "takenOut": "2025-04-18T10:58:49",
+            "plated": "2025-04-18T11:11:01",
+            "hplcVial": "2025-04-18T11:06:33",
+            "phValue": 0.01,
+            "phTimestamp": "2025-04-18T10:58:46",
+            "labCount": 1,
+            "aabCount": 1,
+            "yeastMouldCount": 1
+          },
+          {
+            "id": "4bfa948a-2ce8-49a7-ad1c-c445ab32900d",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 2,
+            "takenOut": "2025-04-18T10:58:51",
+            "plated": "2025-04-18T10:58:52",
+            "hplcVial": "2025-04-18T10:58:53",
+            "phValue": 0.01,
+            "phTimestamp": "2025-04-18T10:58:55",
+            "labCount": 3,
+            "aabCount": 3,
+            "yeastMouldCount": 1
+          },
+          {
+            "id": "11797ebe-2476-4b65-80a9-c64340060c8f",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 3,
+            "takenOut": "2025-04-18T10:59:03",
+            "plated": "2025-04-18T10:59:02",
+            "hplcVial": "2025-04-18T10:59:00",
+            "phValue": 0.01,
+            "phTimestamp": "2025-04-18T10:58:59",
+            "labCount": 3,
+            "aabCount": 3,
+            "yeastMouldCount": 1
+          },
+          {
+            "id": "7c08da5f-31c9-4793-8fbc-6dddfaaac08a",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 4,
+            "takenOut": "2025-04-18T10:59:03",
+            "plated": "2025-04-18T10:59:16",
+            "hplcVial": "2025-04-18T10:59:15",
+            "phValue": 0.02,
+            "phTimestamp": "2025-04-18T10:59:24",
+            "labCount": 3,
+            "aabCount": 3,
+            "yeastMouldCount": 3
+          },
+          {
+            "id": "8ffe8431-ff7c-466e-888d-fa9f09de10ad",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 1,
+            "takenOut": "2025-04-18T10:59:18",
+            "plated": "2025-04-18T10:59:17",
+            "hplcVial": "2025-04-18T10:59:13",
+            "phValue": 0.02,
+            "phTimestamp": "2025-04-18T10:59:23",
+            "labCount": 33,
+            "aabCount": 3,
+            "yeastMouldCount": 3
+          },
+          {
+            "id": "afcb82e3-b25e-43e1-90d9-b813f0040c55",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 2,
+            "takenOut": "2025-04-18T10:59:19",
+            "plated": "2025-04-18T10:59:20",
+            "hplcVial": "2025-04-18T10:59:21",
+            "phValue": 0.01,
+            "phTimestamp": "2025-04-18T10:59:22",
+            "labCount": 3,
+            "aabCount": 3,
+            "yeastMouldCount": 3
+          }
+        ],
+        "protocolUserName": "Cedric Feuz",
+        "cellCountingUserName": "Cedric Feuz",
+        "scobyWeight": 1000,
+        "scobyDriedDate": "2025-04-17",
+        "scobyDriedNotes": "TestInformation",
+        "scobyDriedUserName": "Cedric Feuz",
+        "scobyWeightDried": 2586,
+        "scobyWeights": [
+          {
+            "teaId": 1,
+            "teaName": "test",
+            "weight": 1000
+          },
+          {
+            "teaId": 2,
+            "teaName": "Testname",
+            "weight": 0.07
+          }
+        ],
+        "scobyWeightsDried": [
+          {
+            "teaId": 1,
+            "teaName": "test",
+            "weight": 2586
+          },
+          {
+            "teaId": 2,
+            "teaName": "Testname",
+            "weight": 0.07
+          }
+        ]
+      },
+      {
+        "id": "fd574411-dc80-4e45-9224-f85d07a5fe77",
+        "name": "Test",
+        "description": "Test",
+        "date": "2025-04-21T13:35:27.776Z",
+        "protocolDate": null,
+        "cellCountingDate": null,
+        "scobyDriedDate": null,
+        "protocolNotes": "",
+        "cellCountingNotes": "",
+        "scobyDriedNotes": "",
+        "protocolUserName": null,
+        "cellCountingUserName": null,
+        "scobyDriedUserName": null,
+        "batches": [
+          {
+            "id": "bc20b0d9-d607-4d45-9dff-da603e184a4e",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 1,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null,
+            "scobyWeight": null,
+            "scobyWeightDried": null
+          },
+          {
+            "id": "98fa9c1a-766f-4fb6-b07a-ca5ea4827f55",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 2,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null,
+            "scobyWeight": null,
+            "scobyWeightDried": null
+          },
+          {
+            "id": "bafe0189-6354-45c8-b3d2-3b54a09e8246",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 1,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null,
+            "scobyWeight": null,
+            "scobyWeightDried": null
+          },
+          {
+            "id": "42fca477-1d9c-4f95-b68c-5c9d064ab962",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 2,
+            "takenOut": null,
+            "plated": null,
+            "hplcVial": null,
+            "phValue": null,
+            "phTimestamp": null,
+            "labCount": null,
+            "aabCount": null,
+            "yeastMouldCount": null,
+            "scobyWeight": null,
+            "scobyWeightDried": null
+          }
+        ]
+      },
+      {
+        "id": "8fc99a8f-1edf-4741-b9c1-f66e4d01100e",
+        "name": "t",
+        "description": "t",
+        "date": "2025-05-06T09:18:35",
+        "protocolDate": "2025-05-08",
+        "cellCountingDate": "2025-02-21",
+        "scobyDriedDate": "2001-02-21",
+        "protocolNotes": "test",
+        "cellCountingNotes": "test",
+        "scobyDriedNotes": "test",
+        "protocolUserName": "Cédric",
+        "cellCountingUserName": "tom",
+        "scobyDriedUserName": "Cedric",
+        "scobyWeights": [
+          {
+            "teaId": 1,
+            "teaName": "test",
+            "weight": 12
+          },
+          {
+            "teaId": 2,
+            "teaName": "Testname",
+            "weight": 12
+          }
+        ],
+        "scobyWeightsDried": [
+          {
+            "teaId": 1,
+            "teaName": "test",
+            "weight": 12
+          },
+          {
+            "teaId": 2,
+            "teaName": "Testname",
+            "weight": 12
+          }
+        ],
+        "numberOfSamples": 3,
+        "batches": [
+          {
+            "id": "acc9e075-1ddb-4c3f-bae9-59dfd61c7978",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 1,
+            "takenOut": "2025-05-06T13:18:52",
+            "plated": "2025-05-06T13:19:09",
+            "hplcVial": "2025-05-06T13:19:10",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:11",
+            "labCount": [
+              2,
+              2,
+              2
+            ],
+            "aabCount": [
+              2,
+              2,
+              2
+            ],
+            "yeastMouldCount": [
+              2,
+              2,
+              2
+            ]
+          },
+          {
+            "id": "bac3fa90-0a10-4eda-8877-2b8c83d12e3b",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 2,
+            "takenOut": "2025-05-06T13:19:14",
+            "plated": "2025-05-06T13:19:13",
+            "hplcVial": "2025-05-06T13:19:12",
+            "phValue": 0.02,
+            "phTimestamp": "2025-05-06T13:19:11",
+            "labCount": [
+              2,
+              2,
+              2
+            ],
+            "aabCount": [
+              2,
+              2,
+              26
+            ],
+            "yeastMouldCount": [
+              5,
+              6,
+              5
+            ]
+          },
+          {
+            "id": "df7291cf-ebc6-4b87-9e35-4be85317e49b",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 3,
+            "takenOut": "2025-05-06T13:19:15",
+            "plated": "2025-05-06T13:19:25",
+            "hplcVial": "2025-05-06T13:19:26",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:27",
+            "labCount": [
+              6,
+              7,
+              8
+            ],
+            "aabCount": [
+              7,
+              6,
+              5
+            ],
+            "yeastMouldCount": [
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "id": "ddcb16e0-713e-4198-ab59-4508d1e84d2b",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 4,
+            "takenOut": "2025-05-06T13:19:16",
+            "plated": "2025-05-06T13:19:24",
+            "hplcVial": "2025-05-06T13:19:29",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:28",
+            "labCount": [
+              7,
+              6,
+              5
+            ],
+            "aabCount": [
+              4,
+              3,
+              2
+            ],
+            "yeastMouldCount": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "id": "47a5ab93-3a6b-4eae-83fd-bc9635446a99",
+            "teaId": 1,
+            "teaName": "test",
+            "replicate": 5,
+            "takenOut": "2025-05-06T13:19:17",
+            "plated": "2025-05-06T13:19:23",
+            "hplcVial": "2025-05-06T13:19:30",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:31",
+            "labCount": [
+              2,
+              7,
+              6
+            ],
+            "aabCount": [
+              5,
+              6,
+              7
+            ],
+            "yeastMouldCount": [
+              6,
+              5,
+              6
+            ]
+          },
+          {
+            "id": "86561c42-2c43-4ff3-b642-87de119900d7",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 1,
+            "takenOut": "2025-05-06T13:19:19",
+            "plated": "2025-05-06T13:19:22",
+            "hplcVial": "2025-05-06T13:19:33",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:32",
+            "labCount": [
+              6,
+              6,
+              5
+            ],
+            "aabCount": [
+              4,
+              4,
+              2
+            ],
+            "yeastMouldCount": [
+              5,
+              6,
+              5
+            ]
+          },
+          {
+            "id": "bfb7bc2d-8ff5-48ce-a286-d164b7086f7b",
+            "teaId": 2,
+            "teaName": "Testname",
+            "replicate": 2,
+            "takenOut": "2025-05-06T13:19:20",
+            "plated": "2025-05-06T13:19:21",
+            "hplcVial": "2025-05-06T13:19:33",
+            "phValue": 0.01,
+            "phTimestamp": "2025-05-06T13:19:34",
+            "labCount": [
+              4,
+              4,
+              5
+            ],
+            "aabCount": [
+              5,
+              5,
+              6
+            ],
+            "yeastMouldCount": [
+              2,
+              7,
+              7
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
